@@ -8,7 +8,7 @@ This InfluxDB template can be used to monitor your Raspberry Pi Linux system.
 > metrics from `system`, `temp`, `mem`, `diskio`, `swap` and `net` measurements.
 > **Raspbian** is supported.
 
-![Example Dashboard Screenshot](img/raspberry_system_dashboard.png)
+![Example Dashboard Screenshot](IMG/Air humidity.png)
 
 ## Quick Install
 
